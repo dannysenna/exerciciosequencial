@@ -1,0 +1,1 @@
+Exercícios lista JavaScript Sequencial
